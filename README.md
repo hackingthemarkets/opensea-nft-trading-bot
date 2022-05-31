@@ -2,8 +2,6 @@
 
 Automate buying and selling of NFT's using the OpenSea JavaScript SDK
 
-Video Tutorial: https://www.youtube.com/watch?v=pRfX4VZn_dc
-
 Request and OpenSea API Key and create an Alchemy account.
 
 Install nodejs. Make sure you have the node and npm commands.
